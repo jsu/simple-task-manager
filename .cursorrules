@@ -1,6 +1,6 @@
 I develop on a Linux machine and use a zsh terminal.  I use a docker container to keep this project isolated from my host OS; make sure to run the docker container before running any commands.
 
-Keep code files under 250 lines. If a file is over 250 lines, split it into multiple files based on functionality.
+Keep code files under 250 lines. If a file is over 250 lines, split it into multiple files based on functionality. PEP-8 is the standard for Python code.
 
 Be methodical when solving problems and review any relevant code and data structures. Do not hallucinate. Do not create new files without first checking if a file with the same functionality already exists.
 

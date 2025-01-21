@@ -15,6 +15,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Command-line interface with add/remove/list/complete commands
 - Added .gitignore file for Python projects
 
+### Changed
+- Updated .cursorrules to specify PEP-8 as the Python coding standard
+
 ## [0.1.0] - 2024-03-20
 
 ### Added
