@@ -7,6 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+- Implemented core task management functionality:
+  - Task class with completion tracking
+  - TaskList class for managing collections of tasks
+  - File I/O operations for JSON persistence
+  - Command-line interface with add/remove/list/complete commands
+- Added .gitignore file for Python projects
+
 ## [0.1.0] - 2024-03-20
 
 ### Added
